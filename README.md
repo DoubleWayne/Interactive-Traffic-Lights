@@ -3,7 +3,7 @@ Arduino-based traffic light system with pedestrian button interaction.
 
 # Interactive Traffic Lights System 🚦
 
-[![Demo Video](https://youtube.com/shorts/YAz42z3LjHY?feature=share)]
+[![Demo Video]](https://youtube.com/shorts/YAz42z3LjHY?feature=share)
 
 An intelligent traffic light controller implementing pedestrian request logic.
 
