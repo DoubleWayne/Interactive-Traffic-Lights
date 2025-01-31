@@ -26,7 +26,6 @@ An intelligent traffic light controller implementing pedestrian request logic.
 
 
 ## Wiring Diagram
-![Circuit Schematic]
 <img width="829" alt="image" src="https://github.com/user-attachments/assets/3eafef36-513a-4c76-a623-6f8a156457f2" />
 
 
