@@ -32,4 +32,4 @@ An intelligent traffic light controller implementing pedestrian request logic.
 ## Installation
 1. Clone repository:
    ```bash
-   git clone https://github.com/yourusername/Interactive-Traffic-Lights.git
+   git clone https://github.com/doublewayne/Interactive-Traffic-Lights.git
